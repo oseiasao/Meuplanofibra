@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc0706bd.css",
+    "main.js": "/static/js/main.9e787087.js",
+    "static/media/tv.png": "/static/media/tv.ed63a44c92a3b16e074c.png",
+    "static/media/bg.jpg": "/static/media/bg.02515b36ce4d5be31a59.jpg",
+    "static/media/card-02.jpg": "/static/media/card-02.37dedb38f7c5e633b052.jpg",
+    "static/media/card-03.jpg": "/static/media/card-03.8b0392dcc216f42caaf9.jpg",
+    "static/media/bg-cards.jpg": "/static/media/bg-cards.1b3ce05cb36725ed8da6.jpg",
+    "static/media/card-01.jpg": "/static/media/card-01.72af062c90781337c095.jpg",
+    "static/media/central-de-atendimento.png": "/static/media/central-de-atendimento.0fcc804c572cc632d781.png",
+    "static/media/computador.png": "/static/media/computador.8d3fd300c79aaa93b822.png",
+    "static/media/monitor-de-tv.png": "/static/media/monitor-de-tv.df9f88f9bcc10f6e0571.png",
+    "index.html": "/index.html",
+    "main.fc0706bd.css.map": "/static/css/main.fc0706bd.css.map",
+    "main.9e787087.js.map": "/static/js/main.9e787087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0706bd.css",
+    "static/js/main.9e787087.js"
+  ]
+}
